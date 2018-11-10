@@ -1,0 +1,19 @@
+{
+  "name": "bamazon2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bamazonCustomer2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dreena87/bamazon2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dreena87/bamazon2/issues"
+  },
+  "homepage": "https://github.com/dreena87/bamazon2#readme"
+}
