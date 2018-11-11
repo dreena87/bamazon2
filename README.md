@@ -44,3 +44,5 @@ However, if your store does have enough of the product, you should fulfill the c
 
 This means updating the SQL database to reflect the remaining quantity.
 Once the update goes through, show the customer the total cost of their purchase.
+
+Check out my video!!  Click on link https://drive.google.com/file/d/1y_2HXB7hE5prQykoRqJ2bnDmMbe-lIRv/view
